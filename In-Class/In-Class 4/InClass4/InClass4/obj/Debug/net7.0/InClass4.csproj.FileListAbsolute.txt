@@ -1,0 +1,14 @@
+C:\Users\Owen\source\repos\InClass4\InClass4\bin\Debug\net7.0\InClass4.exe
+C:\Users\Owen\source\repos\InClass4\InClass4\bin\Debug\net7.0\InClass4.deps.json
+C:\Users\Owen\source\repos\InClass4\InClass4\bin\Debug\net7.0\InClass4.runtimeconfig.json
+C:\Users\Owen\source\repos\InClass4\InClass4\bin\Debug\net7.0\InClass4.dll
+C:\Users\Owen\source\repos\InClass4\InClass4\bin\Debug\net7.0\InClass4.pdb
+C:\Users\Owen\source\repos\InClass4\InClass4\obj\Debug\net7.0\InClass4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\InClass4\InClass4\obj\Debug\net7.0\InClass4.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\InClass4\InClass4\obj\Debug\net7.0\InClass4.AssemblyInfo.cs
+C:\Users\Owen\source\repos\InClass4\InClass4\obj\Debug\net7.0\InClass4.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\InClass4\InClass4\obj\Debug\net7.0\InClass4.dll
+C:\Users\Owen\source\repos\InClass4\InClass4\obj\Debug\net7.0\refint\InClass4.dll
+C:\Users\Owen\source\repos\InClass4\InClass4\obj\Debug\net7.0\InClass4.pdb
+C:\Users\Owen\source\repos\InClass4\InClass4\obj\Debug\net7.0\InClass4.genruntimeconfig.cache
+C:\Users\Owen\source\repos\InClass4\InClass4\obj\Debug\net7.0\ref\InClass4.dll

@@ -1,0 +1,14 @@
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\bin\Debug\net7.0\In-Class Assignment #2.exe
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\bin\Debug\net7.0\In-Class Assignment #2.deps.json
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\bin\Debug\net7.0\In-Class Assignment #2.runtimeconfig.json
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\bin\Debug\net7.0\In-Class Assignment #2.dll
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\bin\Debug\net7.0\In-Class Assignment #2.pdb
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\obj\Debug\net7.0\In-Class Assignment #2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\obj\Debug\net7.0\In-Class Assignment #2.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\obj\Debug\net7.0\In-Class Assignment #2.AssemblyInfo.cs
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\obj\Debug\net7.0\In-Class Assignment #2.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\obj\Debug\net7.0\In-Class Assignment #2.dll
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\obj\Debug\net7.0\refint\In-Class Assignment #2.dll
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\obj\Debug\net7.0\In-Class Assignment #2.pdb
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\obj\Debug\net7.0\In-Class Assignment #2.genruntimeconfig.cache
+C:\Users\Owen\source\repos\In-Class Assignment #2\In-Class Assignment #2\obj\Debug\net7.0\ref\In-Class Assignment #2.dll

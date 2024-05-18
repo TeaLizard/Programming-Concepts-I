@@ -1,0 +1,14 @@
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\bin\Debug\net7.0\Rock Paper Scissors Assignment.exe
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\bin\Debug\net7.0\Rock Paper Scissors Assignment.deps.json
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\bin\Debug\net7.0\Rock Paper Scissors Assignment.runtimeconfig.json
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\bin\Debug\net7.0\Rock Paper Scissors Assignment.dll
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\bin\Debug\net7.0\Rock Paper Scissors Assignment.pdb
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\obj\Debug\net7.0\Rock Paper Scissors Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\obj\Debug\net7.0\Rock Paper Scissors Assignment.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\obj\Debug\net7.0\Rock Paper Scissors Assignment.AssemblyInfo.cs
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\obj\Debug\net7.0\Rock Paper Scissors Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\obj\Debug\net7.0\Rock Paper Scissors Assignment.dll
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\obj\Debug\net7.0\refint\Rock Paper Scissors Assignment.dll
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\obj\Debug\net7.0\Rock Paper Scissors Assignment.pdb
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\obj\Debug\net7.0\Rock Paper Scissors Assignment.genruntimeconfig.cache
+C:\Users\Owen\source\repos\Rock Paper Scissors Assignment\Rock Paper Scissors Assignment\obj\Debug\net7.0\ref\Rock Paper Scissors Assignment.dll

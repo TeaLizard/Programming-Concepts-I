@@ -1,0 +1,14 @@
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\bin\Debug\net7.0\In class assignment 1.exe
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\bin\Debug\net7.0\In class assignment 1.deps.json
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\bin\Debug\net7.0\In class assignment 1.runtimeconfig.json
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\bin\Debug\net7.0\In class assignment 1.dll
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\bin\Debug\net7.0\In class assignment 1.pdb
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\obj\Debug\net7.0\In class assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\obj\Debug\net7.0\In class assignment 1.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\obj\Debug\net7.0\In class assignment 1.AssemblyInfo.cs
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\obj\Debug\net7.0\In class assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\obj\Debug\net7.0\In class assignment 1.dll
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\obj\Debug\net7.0\refint\In class assignment 1.dll
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\obj\Debug\net7.0\In class assignment 1.pdb
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\obj\Debug\net7.0\In class assignment 1.genruntimeconfig.cache
+C:\Users\Owen\source\repos\In class assignment 1\In class assignment 1\obj\Debug\net7.0\ref\In class assignment 1.dll
